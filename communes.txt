@@ -1,5 +1,7 @@
 Pour l'exercice sur les communes de France, je comprends ce qu'il faudrait faire mais je n'arrive pas à le reproduire en langage C.
-La difficulté de cet exercice c'est le fait de pouvoir regrouper les trois tableaux en arguments et ensuite de pouvoir lier des informations entre les différents tableaux par exemple de lier Bordeaux avec son code postal mais aussi avec la Gironde et la Nouvelle-Aquitaine, et de pouvoir les affichers dans l'output lorsque l'utilisateur va nous demander les informations sur Bordeaux.
+La difficulté de cet exercice c'est le fait de pouvoir regrouper les trois tableaux en arguments et ensuite de pouvoir lier des informations entre les différents tableaux par
+exemple de lier Bordeaux avec son code postal mais aussi avec la Gironde et la Nouvelle-Aquitaine, et de pouvoir les affichers dans l'output lorsque l'utilisateur va nous
+demander les informations sur Bordeaux.
 Pour l'exercice, il faudrait prendre les trois tableaux en arguments, et créer comme un arbre, avec comme première branche les régions et leurs informations après il faudrait
 comme branche qui partent des régions, tous les départements qui sont dans les régions concernées avec leurs informations, et enfin, faire des branches qui partent des
 différents départements avec les communes des dépratements concernées.
